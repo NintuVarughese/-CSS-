@@ -1,0 +1,61 @@
+.head{
+    color:black;
+    background-color: bisque;
+    text-align: center;
+
+}
+.body{
+    color: rgb(7, 5, 3);
+    background-color: rgb(194, 185, 185);
+    margin: 3%;
+    height:25%
+
+}
+.inner{
+    color: black;
+    background-color: aquamarine;
+    float:left
+
+}
+.innleft{
+
+    color: black;
+    background-color: aquamarine;
+    float:left;
+    width:80%;height:30%;
+    margin:1%;
+    border: 5px solid red;
+    border-block: 4px dotted blue;
+    
+}
+.innright{
+    color: black;
+    background-color: aquamarine;
+    float:left;
+    width:80%;height:30%;
+    margin: 1%;
+    border: 5px solid red;
+    border-block: 4px dotted blue;
+
+}
+.innbotl{
+    color: black;
+    background-color: aquamarine;
+    float:left;
+    width:80%;height:30%;
+    margin:1%;
+    border: 5px solid red;
+    border-block: 4px dotted blue;
+
+
+}
+.innbotr{
+    color: black;
+    background-color: aquamarine;
+    float:left;
+    width:80%;height:30%;
+    margin:1%;
+    border: 5px solid red;
+    border-block: 4px dotted blue;
+
+}

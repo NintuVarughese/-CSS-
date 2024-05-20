@@ -1,0 +1,40 @@
+.firstbody{
+    margin:auto;
+    width:1024px;
+    padding:10px;
+    background-color:#6aaad2;
+    font-size:14px;
+    font-family:Verdana;
+    border: 10px solid transparent;
+  padding: 15px;
+  
+
+}
+.body{
+    background: #a66060; /* Sets background color */
+    color: #110e0e; /* Sets text color */
+    font-family: Arial, sans-serif; /* Sets font family */
+    font-size: 16px; /* Sets font size */
+    line-height: 1.5; /* Sets line height */
+    margin: 3px; /* Sets margin */
+    padding: 20px; /* Sets padding */
+    overflow: auto; /* Specifies overflow behavior */
+    text-align: center; /* Sets text alignment */
+    vertical-align: middle; /* Sets vertical alignment */
+    cursor: pointer; /* Sets cursor type */
+    transition: all 0.3s ease; /* Sets transition effects */
+    box-sizing: border-box; /* Sets box model */
+
+}
+.b{
+    background-image: url('image.jpg');
+}
+.you{
+    background-color: rgb(213, 94, 158);
+}
+.thanku{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
